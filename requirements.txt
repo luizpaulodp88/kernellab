@@ -1,0 +1,2 @@
+# KernelLab Requirements
+# Nenhuma dependência externa obrigatória (utiliza apenas a biblioteca padrão do Python).
